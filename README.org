@@ -1,4 +1,4 @@
-*  App Web <dev/> @ FP 
+*  Prog. Multimedia + Móviles <dev/> @ FP 
 Recursos de autoaprendizaje Orientado (no sólo) a F.P. - desarrollo de Aplicaciones Web
 
 - [ ] pre-requisitos :
@@ -17,20 +17,23 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript
 *** vanilla JavaScript 
 **** JQuery básico
 
-** Servidores Web
-*** Apache2
-**** vHosts - local dev.
-*** Nginx
-**** hosts - local dev.
-
-
 ** backend / server-side program.
 
 https://developer.mozilla.org/en-US/docs/Learn/Server-side
 
-**** HTML5 forms - (a-la verticalia)
+** App - 'WhishlistX Droid':
+- 
+- 
+- 
+
+
+** Future :
+- [ ] [Snkikket APP. + server](https://snikket.org/)
+
+- [ ] [listmnonk + messenger](https://github.com/joeirimpan/listmonk-messenger) 
+> ^^ Lightweight HTTP server to handle webhooks from listmonk and forward it to different messengers. 
+**** HTML5 forms -
 *** Python
 **** web server
 **** Django
-*** Node - Express JS
-*** SQLite
+
