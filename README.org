@@ -1,27 +1,34 @@
 *  App Web <dev/> @ FP 
 Recursos de autoaprendizaje Orientado (no sólo) a F.P. - desarrollo de Aplicaciones Web
 
+- [ ] pre-requisitos :
 https://developer.mozilla.org/en-US/docs/Learn
 
 ** HTML5
 ** CSS3
 ** JS
+
+- [ ] JavaScript esencial
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
 ** APIs
-** hugolego
 ** frontend
 *** Typescript
-*** vanilla JavaScript
+*** vanilla JavaScript 
+**** JQuery básico
+
 ** Servidores Web
 *** Apache2
 **** vHosts - local dev.
 *** Nginx
 **** hosts - local dev.
-** backend
+
+
+** backend / server-side program.
+
 https://developer.mozilla.org/en-US/docs/Learn/Server-side
-*** PHP
-**** mail
-**** forms - (a-la verticalia)
+
+**** HTML5 forms - (a-la verticalia)
 *** Python
 **** web server
 **** Django
