@@ -10,8 +10,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript
 ** APIs
 ** hugolego
 ** frontend
-*** React
-*** Vue
+*** Typescript
+*** vanilla JavaScript
 ** Servidores Web
 *** Apache2
 **** vHosts - local dev.
