@@ -1,0 +1,29 @@
+*  App Web <dev/> @ FP 
+Recursos de autoaprendizaje Orientado (no sólo) a F.P. - desarrollo de Aplicaciones Web
+
+https://developer.mozilla.org/en-US/docs/Learn
+
+** HTML5
+** CSS3
+** JS
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+** APIs
+** hugolego
+** frontend
+*** React
+*** Vue
+** Servidores Web
+*** Apache2
+**** vHosts - local dev.
+*** Nginx
+**** hosts - local dev.
+** backend
+https://developer.mozilla.org/en-US/docs/Learn/Server-side
+*** PHP
+**** mail
+**** forms - (a-la verticalia)
+*** Python
+**** web server
+**** Django
+*** Node - Express JS
+*** SQLite
