@@ -22,7 +22,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript
 https://developer.mozilla.org/en-US/docs/Learn/Server-side
 
 ** App - 'WhishlistX Droid':
-- 
+- Pseudo [fork of Lum-rec](https://github.com/libre-bytes/wishlistX/tree/main)
 - 
 - 
 
